@@ -1,0 +1,5 @@
+Inheritance, means when there are more than one class, there are a class a main and some of the others come from it,
+we call it sub-classes, and these sub-classes have the property of the first class and it transmit to the sub-classes,
+means that the fields and methods in the first class will be also in the sub-classes.
+
+Polymorphism, sub-classes it will overload the method from the other class, and make the code more plentiful.
